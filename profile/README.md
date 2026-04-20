@@ -13,6 +13,7 @@ Facilitar a las licorerías la gestión de los inventarios y a sus proveedores a
 - [**stocksip-backend-app**](): Aplicación para servicios web desarrollada usando C# y .NET Core donde se usan APIs REST para manejar datos y operaciones que se necesitan para la aplicación.
 - [**stocksip-frontend-app**](): Aplicación frontend desarrollada usando Vue.js que permite la interacción del usuario con el sistema a través de la web.
 - [**stocksip-mobile-android-native**](): Aplicación móvil nativa para Android desarrollada usando Kotlin donde los usuarios realizarán sus acciones según sus necesidades.
+- [**stocksip-mobile-multiplatform**](): Aplicación móvil multiplataforma desarrollada usando Flutter y Dart donde los usuarios realizarán sus acciones según sus necesidades.
 
 ## Quiénes somos
 
